@@ -5,7 +5,7 @@ function Dashboard() {
     <div className="dashboard">
         <div className="greeting-message">
           <h1>Hai, Pegawai</h1>
-          <p>Kamu punya 10+ laporan pematangan <a href="#">lihat selengkapnya</a></p>
+          <p>Kamu punya 10+ laporan pemagang <a href="#">lihat selengkapnya</a></p>
         </div>
         <div className="department-needs">
           <h2>Departemen Yang Membutuhkan</h2>

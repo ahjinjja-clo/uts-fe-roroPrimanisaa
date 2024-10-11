@@ -1,10 +1,10 @@
 import axios from 'axios';
-
 import { useState } from 'react';
+const proxyUrl = process.env.REACT_APP_PROXY;
 
 // Create an Axios instance with a base URL
 const api = axios.create({
-  baseURL: 'http://localhost:3000/api',
+"baseURL": proxyUrl
 });
 
 // Define API methods

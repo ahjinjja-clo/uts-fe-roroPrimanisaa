@@ -1,7 +1,7 @@
 {
   "name": "magang_frontend",
   "version": "0.1.0",
-  "homepage": "https://ahjinjja-clo.github.io/uts-backend-roro/",
+  "homepage": "https://ahjinjja-clo.github.io/uts-fe-roroPrimanisaa.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -42,6 +42,7 @@
       "last 1 safari version"
     ]
   },
+  "main": "index.js",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"

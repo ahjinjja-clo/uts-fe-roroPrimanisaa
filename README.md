@@ -12,3 +12,13 @@ Sistem Manajemen Magang ini dirancang untuk mengelola data magang, termasuk info
 - **Frontend**: React, Redux, Axios
 
 - **Database**: MySQL
+
+## catatan
+- sorry pak, saya ga bisa deploynya ke github sama vercel 
+
+## preview tampilan di localhost
+<img src="./src/assets/Screenshot (150).png" alt="Screenshot" width="600">
+<img src="./src/assets/Screenshot (151).png" alt="Screenshot" width="600">
+<img src="./src/assets/Screenshot (152).png" alt="Screenshot" width="600">
+
+

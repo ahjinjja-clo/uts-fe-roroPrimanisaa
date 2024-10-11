@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uts-fe-roroPrimanisaa.git/static/css/main.762f0d74.css",
+    "main.js": "/uts-fe-roroPrimanisaa.git/static/js/main.1a6296c7.js",
+    "index.html": "/uts-fe-roroPrimanisaa.git/index.html",
+    "main.762f0d74.css.map": "/uts-fe-roroPrimanisaa.git/static/css/main.762f0d74.css.map",
+    "main.1a6296c7.js.map": "/uts-fe-roroPrimanisaa.git/static/js/main.1a6296c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762f0d74.css",
+    "static/js/main.1a6296c7.js"
+  ]
+}
